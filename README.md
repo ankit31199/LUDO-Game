@@ -14,6 +14,10 @@ and its related files are installed on the device.
 2. On Compilation, the program may show a error " deprecated conversion from
 string constant to 'char*' [-Wwrite-strings] " just ignore this and execute the 
 
+## Screenshot
+![ss](https://user-images.githubusercontent.com/61941123/107244889-8a003a80-6a54-11eb-921e-96e0d87140c7.PNG)
+
+
 ### References:
 1. The DS internship of Akgec By Gaurav Rawat Sir.
 2. Geeks for Geeks
